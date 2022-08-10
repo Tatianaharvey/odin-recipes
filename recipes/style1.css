@@ -1,0 +1,27 @@
+h1 {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    text-align: center;
+    color: #73b273
+}
+
+.intro {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 20xp;
+    color: #000000;
+    text-align: center;
+}
+
+p {
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 18px;
+    color: #474747;  
+    text-align: center;
+}
+
+h3 {
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 20px;
+    color: #468353;
+    text-align: center;
+}

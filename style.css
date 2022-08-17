@@ -1,3 +1,9 @@
+img {
+    display: block;
+    height: auto;
+    width: 200px;
+}
+
 .main {
     font-family: Helvetica, Arial, sans-serif;
     font-size: 45px;
@@ -6,9 +12,28 @@
     color: #C1E1C1
 }
 
-.titles {
-    font-family: Helvetica, Arial, sans-serif;
-    font-size: 24px;
-    text-align: center;
-    color: #527452
+.recipes {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
 }
+
+p {
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 20px;
+    color: #474747;
+    margin: 10px;
+}
+
+a:link {
+    color: #474747;
+}
+a:hover {
+    color: #C1E1C1;
+}
+a:visited {
+    color: rgb(197, 154, 98);
+}
+
+
